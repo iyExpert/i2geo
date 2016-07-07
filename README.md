@@ -7,7 +7,7 @@ edit composer.json by adding following line and run `composer update`
 ```
 "require": { 
         ....,
-        "iyexpert/i2geo":"*",
+        "iyexpert/i2geo":"dev-master",
 
     },
 ```
